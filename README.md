@@ -1,6 +1,6 @@
 ### 簡介
 - 🔭 我在一家字形公司擔任軟體工程師
-- 🌱 用了4年的Python現在要跳巢至golang
+- 🌱 用了4年的Python現在要跳巢至[golang]
 - 🖋 從2020年末開始接觸[Hugo]並開始將一些平日接觸到的事物寫入Blog中，請參閱[Carson Home](https://carsonslovoka.github.io/site-markmap/)
 
 <a href="https://github.com/CarsonSlovoka">
@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[golang]: https://golang.org/
+[Hugo]: https://gohugo.io/
