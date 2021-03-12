@@ -1,13 +1,15 @@
 ### 簡介
 - 🔭 我在一家字形公司擔任軟體工程師
-- 🌱 用了4年的Python現在要跳巢至[golang]
+- 🌱 用了4年的Python但現在更喜歡[golang]
 - 🖋 從2020年末開始接觸[Hugo]並開始將一些平日接觸到的事物寫入Blog中，請參閱[Carson Home](https://carsonslovoka.github.io/site-markmap/)
 
 <a href="https://github.com/CarsonSlovoka">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarsonSlovoka&show_icons=true&theme=merko&count_private=true" alt="CarsonSlovoka's github stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarsonSlovoka&theme=merko&layout=compact" alt="CarsonSlovoka's github top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CarsonSlovoka&show_icons=true&count_private=true&theme=highcontrast" alt="CarsonSlovoka's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarsonSlovoka&amp;theme=highcontrast&amp;layout=compact" alt="CarsonSlovoka's github top languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CarsonSlovoka&amp;langs_count=8&amp;theme=highcontrast" alt="TOP Langs">
 </a>
-<br/>
+
+</a>
 
 ### 興趣
 - 🏸Badminton
@@ -25,6 +27,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+[![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs?username=CarsonSlovoka&amp;langs_count=8&amp;theme=highcontrast)](https://github.com/CarsonSlovoka)
+[![TOP Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarsonSlovoka&amp;theme=highcontrast&amp;layout=compact)
+[![CarsonSlovoka's github stats](https://github-readme-stats.vercel.app/api?username=CarsonSlovoka&show_icons=true&count_private=true&theme=highcontrast)
+
 -->
 
 [golang]: https://golang.org/
