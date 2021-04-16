@@ -1,7 +1,7 @@
 ### 簡介
-- 🔭 我在一家字形公司擔任軟體工程師
-- 🌱 用了4年的Python但現在更喜歡[golang]
-- 🖋 從2020年末開始接觸[Hugo]並開始將一些平日接觸到的事物寫入Blog中，請參閱[Carson Home](https://carsonslovoka.github.io/site-markmap/)
+- 🌱 2016年開始接觸Python
+- 🌱 2020年接觸[Hugo]，並開始使用Hugo取代Sphinx，Blog: [Carson Home](https://carsonslovoka.github.io/site-markmap/)
+- 🌱 2021年愛上[golang]，並全心投入。
 
 <a href="https://github.com/CarsonSlovoka">
   <img src="https://github-readme-stats.vercel.app/api?username=CarsonSlovoka&show_icons=true&count_private=true&theme=highcontrast" alt="CarsonSlovoka's github stats" />
