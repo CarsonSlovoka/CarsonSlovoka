@@ -11,6 +11,10 @@
 
 </a>
 
+### Links
+
+[my gist](https://gist.github.com/CarsonSlovoka)
+
 ### 興趣
 - 🏸Badminton
 
