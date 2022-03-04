@@ -1,6 +1,6 @@
 ### 簡介
 - 🌱 2016年開始接觸Python
-- 🌱 2020年接觸[Hugo]，並開始使用Hugo取代Sphinx，Blog: [Carson Home](https://carsonslovoka.github.io/site-markmap/)
+- 🌱 2020年接觸[Hugo]，並開始使用Hugo取代Sphinx，Blog: [Carson Home](https://carsonslovoka.github.io/old-home/site-markmap/)
 - 🌱 2021年愛上[golang]，並全心投入。
 
 <a href="https://github.com/CarsonSlovoka">
